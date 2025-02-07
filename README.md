@@ -1,22 +1,41 @@
 # Hi, I'm Jacob Howington! 
 
 CS Graduate | AI & Data Science Enthusiast  
-Passionate about Deep Learning, Computer Vision, and NLP  
+Passionate about Deep Learning, Computer Vision, and NLP.
+I enjoy developing AI-powered applications that bridge software and hardware to solve real-world challenges.
 
 ## Featured Projects  
 
-<!--
-🔹 **[Variational Autoencoder for Latent Diffusion](https://github.com/yourusername/vae-latent-diffusion)**  
-  - Implemented a VAE for image synthesis.  
-  - **Tech:** Python, PyTorch, OpenCV  
+ <!--
+**[AI powered Recycling Bin (Capstone Project)](https://github.com/yourusername/vae-latent-diffusion)**  
+  - Implemented a computer vision model to classify recycables.
+  - Implemened sensors, a raspberry pi, NFC reader, motors, etc.. to control the bin to automatically sort the item. 
+  - **Tech:** Python, PyTorch, OpenCV, PHP, HTML, CSS, SQL  
 
-🔹 **[AI-Powered Medicine Dispenser](https://github.com/yourusername/ai-medicine-dispenser)**  
-  - Built an intelligent dispenser using Computer Vision & IoT.  
-  - **Tech:** Python, TensorFlow, Raspberry Pi  
 ## 📊 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical) 
 -->
+
+**[Distributed Sorting System (Distributed Project)](https://github.com/JakeHowington/distributed-systems-project)**  
+  - Designed a scalable sorting service that distributes workloads across n servers using Docker & Kubernetes (K3s).
+  - Implemented multi-threading & locking mechanisms to prevent deadlocks, improving performance.
+  - Developed a heartbeat protocol for fault tolerance in distributed nodes.
+  - **Tech:** Java, Docker, Kubernetes(K3s)
+
+**[Survey System (Software Engineering Project)](https://github.com/JakeHowington/software-engineering-project)**  
+  - Developed a full-stack survey platform allowing admins to create, assign, and analyze surveys.
+  - Designed an intuitive UI for survey creation & response tracking.
+  - **Tech:** PHP, JavaScript, HTML, CSS, SQL 
+
+## Current Focus
+**AI-Driven Medicine Sorting Machine**
+  - Developing a computer vision-based system to assist individuals managing multiple medications.
+  - Exploring YOLO and advanced computer vision techniques for object detection and classification.
+  
+**Personal Website**
+  - Building a portfolio website to showcase projects, resume, and GitHub contributions.
+
 
 ## Technologies & Tools  
 
@@ -44,6 +63,10 @@ Passionate about Deep Learning, Computer Vision, and NLP
 
 
 ## Connect With Me  
+Let’s Connect!  
+Open to opportunities in AI, Machine Learning, and Software Engineering.  
+
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jacobhowington)  
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://yourwebsite.com) -->
 **Email:** jacob.b.howington@gmail.com
