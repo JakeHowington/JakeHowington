@@ -44,15 +44,15 @@ Passionate about Deep Learning, Computer Vision, and NLP
 
 
 ## Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://yourwebsite.com)
-**Email:** your.email@example.com 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jacobhowington)  
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://yourwebsite.com) -->
+**Email:** jacob.b.howington@gmail.com
 
 
  
 
 
-6
+
 
 <!--
 **JakeHowington/JakeHowington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
